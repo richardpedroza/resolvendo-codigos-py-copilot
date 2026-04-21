@@ -1,4 +1,4 @@
-Verificando Números Pares e Ímpares 
+#Verificando Números Pares e Ímpares 
 
 # Recebe um número inteiro do usuário
 numero = int(input("Digite um número inteiro: "))

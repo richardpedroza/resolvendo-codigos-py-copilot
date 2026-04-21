@@ -1,4 +1,4 @@
-Verificando Palíndromos 
+#Verificando Palindromos
 
 # Entrada do usuário
 palavra = input("Digite uma palavra: ")

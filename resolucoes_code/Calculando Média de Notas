@@ -1,4 +1,4 @@
-Calculando Média de Notas
+#Calculando Média de Notas
 
 # Recebendo as notas do usuário
 nota1 = float(input("Digite a primeira nota: "))
